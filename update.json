@@ -1,14 +1,11 @@
 {
- "ver": "1.5",
+ "ver": "1.6",
  "date": "2026-11-27",
  "notes": [
-  "المواعيد والتذكير التلقائي",
-  "استوديو صور قبل وبعد",
-  "التقارير الشهرية",
-  "واجهة إنجليزية",
-  "التحديث التلقائي"
+  "خلفية جديدة فخمة بخطوط ذهبية",
+  "تحسينات في الشكل والأداء"
  ],
- "url": "https://raw.githubusercontent.com/tadreebation/tadreebation-updates/main/setup-1.5.exe",
- "sha256": "e52d6f570af9842acdb08078b76e16c81685207d5515821c2f04040cf732f792",
- "sig": "AVh7LqMxE990UYLEgprAXnHXbViCdB-J2xX1DpRayRSLPV4koQEjODt13d6ytGuykaiIENeTdw_13zMx9DyZ3A"
+ "url": "https://raw.githubusercontent.com/tadreebation/tadreebation-updates/main/setup-1.6.exe",
+ "sha256": "d4924458ab4cec297fa3657b49eea86cd0addd3dfc72d8926d5315601187221a",
+ "sig": "8trZ28w3fzPU2xnBft8M4MCBgoBx92s1CSkvizt3ZU89xcHaKoZJDxV1hNLTQqATg5XI5J4ATxZGZm15TlARvg"
 }
